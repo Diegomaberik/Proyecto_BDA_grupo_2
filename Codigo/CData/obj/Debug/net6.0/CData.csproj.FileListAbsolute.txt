@@ -1,0 +1,24 @@
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\bin\Debug\net6.0\CData.deps.json
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\bin\Debug\net6.0\CData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\bin\Debug\net6.0\CData.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\obj\Debug\net6.0\CData.csproj.AssemblyReference.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\obj\Debug\net6.0\CData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\obj\Debug\net6.0\CData.AssemblyInfoInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\obj\Debug\net6.0\CData.AssemblyInfo.cs
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\obj\Debug\net6.0\CData.csproj.CoreCompileInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\obj\Debug\net6.0\CData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\obj\Debug\net6.0\refint\CData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\obj\Debug\net6.0\CData.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CData\obj\Debug\net6.0\ref\CData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\bin\Debug\net6.0\CData.deps.json
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\bin\Debug\net6.0\CData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\bin\Debug\net6.0\CData.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\obj\Debug\net6.0\CData.csproj.AssemblyReference.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\obj\Debug\net6.0\CData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\obj\Debug\net6.0\CData.AssemblyInfoInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\obj\Debug\net6.0\CData.AssemblyInfo.cs
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\obj\Debug\net6.0\CData.csproj.CoreCompileInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\obj\Debug\net6.0\CData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\obj\Debug\net6.0\refint\CData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\obj\Debug\net6.0\CData.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CData\obj\Debug\net6.0\ref\CData.dll

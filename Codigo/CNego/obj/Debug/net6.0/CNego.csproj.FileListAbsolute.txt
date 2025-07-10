@@ -1,0 +1,30 @@
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.csproj.AssemblyReference.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.AssemblyInfoInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.AssemblyInfo.cs
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.csproj.CoreCompileInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\bin\Debug\net6.0\CNego.deps.json
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\bin\Debug\net6.0\CNego.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\bin\Debug\net6.0\CNego.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\bin\Debug\net6.0\CData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\bin\Debug\net6.0\CData.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.csproj.Up2Date
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\obj\Debug\net6.0\refint\CNego.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CNego\obj\Debug\net6.0\ref\CNego.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\bin\Debug\net6.0\CNego.deps.json
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\bin\Debug\net6.0\CNego.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\bin\Debug\net6.0\CNego.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\bin\Debug\net6.0\CData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\bin\Debug\net6.0\CData.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.csproj.AssemblyReference.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.AssemblyInfoInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.AssemblyInfo.cs
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.csproj.CoreCompileInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.csproj.Up2Date
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\obj\Debug\net6.0\refint\CNego.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\obj\Debug\net6.0\CNego.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CNego\obj\Debug\net6.0\ref\CNego.dll
