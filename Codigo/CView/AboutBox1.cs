@@ -19,7 +19,18 @@ namespace CView
             this.labelVersion.Text = String.Format("Versión {0}", AssemblyVersion);
             this.labelCopyright.Text = AssemblyCopyright;
             this.labelCompanyName.Text = AssemblyCompany;
-            this.textBoxDescription.Text = AssemblyDescription;
+                    this.textBoxDescription.Text =
+"Integrantes:\r\n" +
+"• Nicolas Quinde\r\n" +
+"• Mario Jacho\r\n" +
+"• Galo Izquierdo\r\n" +
+"• Jonathan Gelvez\r\n" +
+"• Douglas Orrala\r\n" +
+"• Andy Gutierrez\r\n" +
+"• Ruben Quiroga\r\n" +
+"• \r\n" +
+"• \r\n" +
+"• \r\n";
         }
 
         #region Descriptores de acceso de atributos de ensamblado
