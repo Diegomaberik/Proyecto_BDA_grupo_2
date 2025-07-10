@@ -1,0 +1,110 @@
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.csproj.AssemblyReference.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.csproj.GenerateResource.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.AssemblyInfoInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.AssemblyInfo.cs
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.csproj.CoreCompileInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Cli.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frmMenu.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\CData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\CNego.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\CNego.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\CData.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.csproj.Up2Date
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.genruntimeconfig.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Cli.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Tec.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.AboutBox1.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Tec.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Ser.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Ser.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Pro.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Pro.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Ord.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Fac.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Ord.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Fac.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2OrdDet.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\5.Prog.Eventos\POE\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.Properties.Resources.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\ProyectoFinal.exe
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\ProyectoFinal.deps.json
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\ProyectoFinal.runtimeconfig.json
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\System.IO.Pipelines.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\System.Security.Permissions.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\System.Text.Encoding.CodePages.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\System.Windows.Extensions.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\CData.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\CNego.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\CNego.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\bin\Debug\net6.0-windows\CData.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.csproj.AssemblyReference.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.AboutBox1.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Cli.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Fac.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Ord.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Pro.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Ser.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm1Tec.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Cli.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Fac.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Ord.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2OrdDet.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Pro.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Ser.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frm2Tec.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.frmMenu.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.Properties.Resources.resources
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.csproj.GenerateResource.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.AssemblyInfoInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.AssemblyInfo.cs
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.csproj.CoreCompileInputs.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.csproj.Up2Date
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\ProyectoFinal.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\refint\ProyectoFinal.dll
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\ProyectoFinal.pdb
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\CView.genruntimeconfig.cache
+C:\Users\Galo Izquierdo\Documents\UG\Cursando\6.Base de Datos2\ProyectoFinal\CView\obj\Debug\net6.0-windows\ref\ProyectoFinal.dll
