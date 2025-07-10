@@ -26,10 +26,10 @@ namespace CView
 "• Galo Izquierdo\r\n" +
 "• Jonathan Gelvez\r\n" +
 "• Douglas Orrala\r\n" +
-"• Miguel Reyes\r\n"
+"• Miguel Reyes\r\n" +
 "• Andy Gutierrez\r\n" +
 "• Ruben Quiroga\r\n" +
-"• klever Arteaga\r\n"
+"• klever Arteaga\r\n" +
 "• \r\n" +
 "• \r\n" +
 "• \r\n";
