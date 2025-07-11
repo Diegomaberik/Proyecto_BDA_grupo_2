@@ -16,13 +16,13 @@ namespace CData.SQL
             using (MySqlConnection conn = connectionDB.OpenConnection())
             {
                 string query = @"SELECT COUNT(*) FROM users 
-                                 WHERE (usuario = @valor OR correo = @valor) 
-                                 AND clave = @clave";
+                                 WHERE (usuario = :valor OR correo = :valor) 
+                                 AND clave = :clave";
 
                 using (MySqlCommand cmd = new MySqlCommand(query, conn))
                 {
-                    cmd.Parameters.AddWithValue("@valor", usuarioCorreo);
-                    cmd.Parameters.AddWithValue("@clave", contrasena);
+                    cmd.Parameters.AddWithValue(":valor", usuarioCorreo);
+                    cmd.Parameters.AddWithValue(":clave", contrasena);
 
                     int count = Convert.ToInt32(cmd.ExecuteScalar());
                     return count > 0;
