@@ -30,7 +30,7 @@ namespace CView
 "• Andy Gutierrez\r\n" +
 "• Ruben Quiroga\r\n" +
 "• klever Arteaga\r\n" +
-"• \r\n" +
+"• Diego Acosta\r\n" +
 "• \r\n" +
 "• \r\n";
         }
